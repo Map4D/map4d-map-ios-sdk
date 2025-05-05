@@ -70,6 +70,7 @@ typedef NS_ENUM(NSUInteger, MFMapType) {
 - (void)setPOIsEnabled:(bool)enabled;
 - (bool)isPOIsEnabled;
 
+- (void)setBuildingsFallbackColor:(UIColor *)color;
 - (void)setBuildingsEnabled:(bool)enabled;
 - (bool)isBuildingsEnabled;
 
