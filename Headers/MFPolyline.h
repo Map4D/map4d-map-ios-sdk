@@ -1,8 +1,8 @@
 //
 //  MFPolyline.h
-//  mapes
+//  Map4dMap SDK for iOS
 //
-//  Created by tantv on 9/20/18.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFPolyline_h

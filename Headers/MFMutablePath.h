@@ -1,8 +1,8 @@
 //
 //  MFMutablePath.h
-//  mapes
+//  Map4dMap SDK for iOS
 //
-//  Created by tantv on 9/24/18.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFMutablePath_h

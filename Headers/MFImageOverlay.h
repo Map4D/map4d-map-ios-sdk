@@ -1,8 +1,8 @@
 //
 //  MFImageOverlay.h
-//  Map4dMap
+//  Map4dMap SDK for iOS
 //
-//  Created by Huy Dang on 08/08/2022.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFImageOverlay_h

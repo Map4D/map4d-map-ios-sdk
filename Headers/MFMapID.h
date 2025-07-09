@@ -1,8 +1,8 @@
 //
 //  MFMapID.h
-//  Map4D Map SDK for iOS
+//  Map4dMap SDK for iOS
 //
-//  Copyright 2022 IOTLink Ltd
+//  Copyright (c) 2022 IOTLink LLC.
 //
 
 #ifndef MFMapID_h

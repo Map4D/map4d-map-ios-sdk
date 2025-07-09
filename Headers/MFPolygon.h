@@ -1,8 +1,8 @@
 //
 //  MFPolygon.h
-//  Map4D
+//  Map4dMap SDK for iOS
 //
-//  Created by tantv on 12/21/18.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFPolygon_h

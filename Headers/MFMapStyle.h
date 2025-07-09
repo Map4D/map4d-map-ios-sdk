@@ -1,8 +1,8 @@
 //
 //  MFMapStyle.h
-//  Map4dMap
+//  Map4dMap SDK for iOS
 //
-//  Created by Huy Dang on 10/2/24.
+//  Copyright (c) 2024 IOTLink LLC.
 //
 
 #ifndef MFMapStyle_h

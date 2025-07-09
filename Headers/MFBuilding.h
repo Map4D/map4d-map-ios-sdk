@@ -1,8 +1,8 @@
 //
 //  MFBuilding.h
-//  Map4dMap
+//  Map4dMap SDK for iOS
 //
-//  Created by Huy Dang on 6/11/20.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFBuilding_h

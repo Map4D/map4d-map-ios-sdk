@@ -1,8 +1,8 @@
 //
 //  MFCoordinateBounds.h
-//  Map4D
+//  Map4dMap SDK for iOS
 //
-//  Created by TienLPV on 08/10/19.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #import <Foundation/Foundation.h>

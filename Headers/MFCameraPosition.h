@@ -1,8 +1,8 @@
 //
 //  MFCameraPosition.h
-//  Map4D
+//  Map4dMap SDK for iOS
 //
-//  Created by tantv on 10/12/18.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFCameraPosition_h

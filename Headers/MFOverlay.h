@@ -1,8 +1,8 @@
 //
 //  MFOverlay.h
-//  mapes
+//  Map4dMap SDK for iOS
 //
-//  Created by tantv on 9/17/18.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFOverlay_h

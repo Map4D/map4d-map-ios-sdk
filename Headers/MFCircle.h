@@ -1,8 +1,8 @@
 //
 //  MFCircle.h
-//  Map4D
+//  Map4dMap SDK for iOS
 //
-//  Created by Sua Le on 12/28/18.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #import <Foundation/Foundation.h>

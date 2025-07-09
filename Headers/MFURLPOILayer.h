@@ -1,8 +1,8 @@
 //
 //  MFURLPOILayer.h
-//  Map4dMap
+//  Map4dMap SDK for iOS
 //
-//  Created by Huy Dang on 9/17/20.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFURLPOILayer_h

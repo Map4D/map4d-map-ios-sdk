@@ -1,8 +1,8 @@
 //
 //  MFDirectionsRenderer.h
-//  Map4dMap
+//  Map4dMap SDK for iOS
 //
-//  Created by Huy Dang on 8/12/21.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFDirectionsRenderer_h

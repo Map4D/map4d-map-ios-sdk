@@ -1,8 +1,8 @@
 //
 //  MFUISettings.h
-//  Map4dMap
+//  Map4dMap SDK for iOS
 //
-//  Created by Huy Dang on 8/21/20.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFUISettings_h

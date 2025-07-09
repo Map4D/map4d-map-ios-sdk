@@ -1,8 +1,8 @@
 //
 //  MFStrokePattern.h
-//  Map4dMap
+//  Map4dMap SDK for iOS
 //
-//  Created by Huy Dang on 23/05/2022.
+//  Copyright (c) 2018 IOTLink LLC.
 //
 
 #ifndef MFStrokePattern_h
