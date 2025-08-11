@@ -7,6 +7,7 @@
 
 #ifndef MFMapView_Animation_h
 #define MFMapView_Animation_h
+
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 #import "MFCameraUpdate.h"
@@ -15,9 +16,13 @@
 
 @interface MFMapView (Animation)
 
-  // Animation
-  - (void) animateCamera:(MFCameraUpdate *) cameraUpdate;
-  - (void) moveCamera: (MFCameraUpdate* ) cameraUpdate;
+// Animation
+- (void)animateCamera:(MFCameraUpdate *)cameraUpdate;
+
+// Move camera
+- (void)moveCamera:(MFCameraUpdate *)cameraUpdate;
+- (void)moveCamera:(MFCameraUpdate *)cameraUpdate duration:(NSTimeInterval)duration;
+
 @end
 
 
