@@ -30,6 +30,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property(nonatomic, weak, nullable) MFMapView *map;
 
+/**
+ * zIndex
+ */
+@property(nonatomic) float zIndex;
+
 - (instancetype)init NS_UNAVAILABLE;
 
 - (instancetype)initWithJson:(NSString *)json;
