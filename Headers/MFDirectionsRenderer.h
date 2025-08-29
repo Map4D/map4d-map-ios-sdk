@@ -17,6 +17,7 @@
 @interface MFDirectionsRenderer : NSObject
 
 @property(nonatomic, weak, nullable) MFMapView* map;
+@property(nonatomic) float zIndex;
 
 @property(nonatomic, strong, nullable) NSArray<MFPath*>* routes;
 @property(nonatomic) NSUInteger activedIndex;

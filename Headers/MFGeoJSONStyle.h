@@ -15,6 +15,9 @@ NS_ASSUME_NONNULL_BEGIN
 NS_SWIFT_NAME(MFGeoJSON.PointStyle)
 @interface MFGeoJSONPointStyle : NSObject
 
+@property(nonatomic) double rotation;
+@property(nonatomic) CGPoint groundAnchor;
+@property(nonatomic, getter=isFlat) bool flat;
 @property(nonatomic, strong, nullable) UIImage* icon;
 
 @end
