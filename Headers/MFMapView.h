@@ -62,6 +62,7 @@ typedef NS_ENUM(NSUInteger, MFMapType) {
 - (instancetype)initWithFrame:(CGRect)frame mapID:(MFMapID *)mapID;
 
 - (void)setMapID:(MFMapID *)mapID;
+- (void)setMapID:(MFMapID *)mapID completion:(void (^)(NSString * _Nullable data, NSError * _Nullable error))completion;
 
 /** Enable My Location */
 - (void)setMyLocationEnabled:(bool)_isMyLocationEnable;
