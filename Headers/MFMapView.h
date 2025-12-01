@@ -77,9 +77,6 @@ typedef NS_ENUM(NSUInteger, MFMapType) {
 
 - (void)setSelectedBuildings:(NSArray<NSString *> *_Nullable)buildingIds;
 
-/** Native Zoom */
-- (void)setMaxNativeZoom:(double)zoom;
-
 - (void)setMinZoom:(double)minZoom maxZoom:(double)maxZoom;
 
 /**
